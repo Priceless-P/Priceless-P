@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priceless-P
+- 👋 Hi, I’m Prisca Chidimma Maduka
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently learning React.js 
 
